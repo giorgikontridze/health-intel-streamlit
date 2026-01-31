@@ -1,0 +1,8 @@
+streamlit
+pandas
+folium
+numpy
+openpyxl
+xlsxwriter
+branca
+jinja2
